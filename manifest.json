@@ -1,4 +1,10 @@
 {
-  "version": "1.0.0",
-  "files": []
+  "version": "1.0.1",
+  "files": [
+    {
+      "path": "1.metin2client.exe",
+      "url": "https://raw.githubusercontent.com/k4rm4xn3xuz-a11y/ProjectX-Updates/main/1.metin2client.exe",
+      "sha256": "da914c49a2cc9a40511fd38b74da0512702df47354f1d4551370a4385f38ed2d"
+    }
+  ]
 }
